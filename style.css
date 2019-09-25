@@ -1,0 +1,15 @@
+
+
+
+.table-works td{
+  font-weight: normal;
+  color: #007BFF;  
+}
+
+.table-works td:nth-child(2){
+  color: black;
+}
+
+.footer {
+	background:#F5F5F5;
+}
